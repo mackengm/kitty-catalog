@@ -1,10 +1,10 @@
 # Site settings
-baseurl = "https://catalog.summittdweller.com"
+baseurl = "https://kitty-catalog.m4ck3ngm.com"
 languageCode = "en-us"
 sectionPagesMenu = "main"
 
 [params]
 	name = "Summitt Catalog"
-	description = "Tracking the commmunity kitties. Site creation and upkeep by Mark and Mackenzie McFate."
-	email = "mark.mcfate@icloud.com"
-	author = "Summitt Catalog"
+	description = "Tracking the commmunity kitties. Site creation and upkeep by Mackenzie McFate."
+	email = "m4ck3ngm@gmail.com"
+	author = "Kitty-Catalog"        # @TODO...fix this
